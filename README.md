@@ -1,3 +1,3 @@
 # Code for Wordle using Entropy
-
-[Code File](https://github.com/recervictory/wordle/blob/main/wardle.v.2.ipynb)
+Run Code From...
+#### [Code File](https://github.com/recervictory/wordle/blob/test/wardle.v.2.ipynb)
